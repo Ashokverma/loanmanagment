@@ -1,6 +1,8 @@
 <?php
 require_once "customer.php";
 
+#ashok verma
+
 echo "<pre>";
 
 $user=new ln_master();
